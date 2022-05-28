@@ -1,6 +1,6 @@
 # esercitazioniIFTS2022
 
-## Esercizi Python: Machine Learning, Data Mining, Text Mining##
+## Esercizi Python: Machine Learning, Data Mining, Text Mining
 
 01.intro [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/01_intro.ipynb)
 
@@ -14,6 +14,6 @@
 
 Audit classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Esercitazione05/Audit_classification_easy.ipynb)
 
-Esercitazione finale Machine Learning: [![Open In Colab](https://colab.research.google.com/drive/1WOo_yujG2-yavbRZ0S7_lnfJXckxQWkl)]
+Esercitazione finale Machine Learning: [![Open In Colab](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Elena-Tassoni-Machine-learning-28042022.ipybn)]
 
-Esercitazione finale Text Mining: [![Open in Colab](https://colab.research.google.com/drive/1HBGHGknQJ0wY-mls8zIiRz2zgZDuZDQU)]
+Esercitazione finale Text Mining: [![Open in Colab](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Elena-Tassoni-text-mining.ipybn)]
