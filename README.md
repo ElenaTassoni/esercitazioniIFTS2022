@@ -16,4 +16,4 @@ Audit classificazione [![Open In Colab](https://colab.research.google.com/assets
 
 Esercitazione finale Machine Learning: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Copia%20di%20Elena-Tassoni-Machine-Learning-28042022.ipynb)
 
-Esercitazione finale Text Mining: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Elena-Tassoni-text-mining.ipybn)
+Esercitazione finale Text Mining: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElenaTassoni/esercitazioniIFTS2022/blob/main/Copia_di_Elena_Tassoni_text_mining.ipynb)
